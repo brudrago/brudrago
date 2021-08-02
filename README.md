@@ -1,4 +1,4 @@
-### Olá , eu sou a Bruna 👩🏻‍💻
+### Bruna Drago - Dev iOS 👩🏻‍💻
 
 - 🔭 Hoje trabalho com desenvolvimento em Swift
 - 🌱 Estudando arquiteturas para desenvolvimento mobile e testes de UI
