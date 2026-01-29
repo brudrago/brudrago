@@ -1,7 +1,7 @@
-### Bruna Drago - Dev iOS 👩🏻‍💻
+### Bruna Drago - Dev 👩🏻‍💻
 
-- 🔭 Desenvolvimento em Swift
-- 🌱 Estudando arquiteturas para desenvolvimento mobile e testes de UI
+- 🔭 Desenvolvimento Mobile (Swift, Flutter)
+- 🌱 Estudando Golang e backend (criação de API's, serviços, kubernets e etc)
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Eu já fui comissária de vôo ✈️ 👩🏻‍✈️ 
 
